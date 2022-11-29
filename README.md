@@ -17,6 +17,8 @@ The python web version is active at [asciiplot](https://tusharhero.github.io/asc
 
 ## plans
 
+- Learn C
+
 - rewrite the python version in C.
 
 - Create a web version for asciiplot using WASM.
